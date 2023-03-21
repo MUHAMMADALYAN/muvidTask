@@ -1,0 +1,8 @@
+# To run from scratch
+
+1. Run fake_data.py
+2. Run train.py
+3. At last, run app.py to run the Flask app
+
+
+# If employee.db, model.joblib, training departments.pkl exist you can test api directly by running app.py
