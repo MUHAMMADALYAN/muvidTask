@@ -1,6 +1,9 @@
 # muvidTask
-###  To run from scratch remove instance folder,model.joblib, training departments.pkl and run files in this order  
+###  To run from scratch remove instance folder,model.joblib, training departments.pkl 
 
+
+#### Install packages using 
+pip install -r requirements.txt
 #### 1. Run fake_data.py
 #### 2. Run train.py
 #### 3. At last, run app.py to run the Flask app
